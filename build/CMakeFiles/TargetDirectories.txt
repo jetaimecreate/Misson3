@@ -1,0 +1,3 @@
+/home/zqm/识别/build/CMakeFiles/TrafficSignDetection.dir
+/home/zqm/识别/build/CMakeFiles/edit_cache.dir
+/home/zqm/识别/build/CMakeFiles/rebuild_cache.dir

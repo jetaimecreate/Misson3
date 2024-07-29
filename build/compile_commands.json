@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zqm/识别/build",
+  "command": "/usr/bin/c++  -I/home/zqm/识别/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/TrafficSignDetection.dir/src/main.cpp.o -c /home/zqm/识别/src/main.cpp",
+  "file": "/home/zqm/识别/src/main.cpp"
+},
+{
+  "directory": "/home/zqm/识别/build",
+  "command": "/usr/bin/c++  -I/home/zqm/识别/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/TrafficSignDetection.dir/src/shibie.cpp.o -c /home/zqm/识别/src/shibie.cpp",
+  "file": "/home/zqm/识别/src/shibie.cpp"
+}
+]
